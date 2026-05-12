@@ -1,0 +1,4 @@
+﻿# GitHub linguist language detection
+*.ino linguist-language=C++
+*.cpp linguist-language=C++
+*.h linguist-language=C++
